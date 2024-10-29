@@ -1,0 +1,1 @@
+Este projeto tem como objetivo apresentar uma introdução ao Power BI, utilizando dados de amostra para analisar as vendas e lucros de uma empresa. Através de visualizações interativas e relatórios dinâmicos, os participantes aprenderão a extrair insights valiosos e a tomar decisões informadas com base nas informações analisadas.
